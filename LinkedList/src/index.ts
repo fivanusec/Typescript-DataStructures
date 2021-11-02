@@ -1,4 +1,5 @@
 import { LinkedList } from "./LinkedList/.";
+
 interface Post {
   title: string;
 }
